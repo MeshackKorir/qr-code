@@ -8,7 +8,7 @@ body{
 
 .middle-card{
     background-color: white;
-    height: 70vh;
+    height: 60vh;
     margin-top: 75px;
     width: 270px;
     padding: 20px;
@@ -29,9 +29,10 @@ body{
     width: 270px;
     margin-top: 4px;
     border-radius: 20px;
+    text-align: center;
     /* padding: 15px; */
 }
 
-.word-card{
-
+.second-word{
+    color: darkgray;
 }
