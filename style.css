@@ -9,7 +9,7 @@ body{
 .middle-card{
     background-color: white;
     height: 59vh;
-    margin-top: 75px;
+    margin-top: 120px;
     width: 270px;
     padding: 13px;
     margin-left: 600px;
@@ -28,7 +28,7 @@ body{
     margin-top: 0;
     width: 270px;
     margin-top: 4px;
-    border-radius: 20px;
+    border-radius: 15px;
     text-align: center;
     /* padding: 15px; */
 }
@@ -39,5 +39,7 @@ body{
 }
 
 .word-card{
-    padding-left: 27px;    
+    padding-left: 27px;  
+    font-family: 'Outfit', sans-serif;
+    color: #595858;
 }
