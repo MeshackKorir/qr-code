@@ -21,7 +21,11 @@ body{
     height: 45vh;
     padding: 5px;
     margin-top: 0 auto;
-    border-radius: 20px;
+    border-radius: 20px;   
+}
 
-    
+.qr{
+    width: 200px;
+    margin-top: 20px;
+    padding: 35px;
 }
