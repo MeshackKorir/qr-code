@@ -8,10 +8,10 @@ body{
 
 .middle-card{
     background-color: white;
-    height: 60vh;
+    height: 59vh;
     margin-top: 75px;
     width: 270px;
-    padding: 20px;
+    padding: 13px;
     margin-left: 600px;
     border-radius: 20px;
 }
@@ -25,7 +25,7 @@ body{
 } */
 
 .qr{
-    margin-top: 1px;
+    margin-top: 0;
     width: 270px;
     margin-top: 4px;
     border-radius: 20px;
@@ -36,4 +36,8 @@ body{
 .second-word{
     color: darkgray;
     text-align: center;
+}
+
+.word-card{
+    padding-left: 27px;    
 }
