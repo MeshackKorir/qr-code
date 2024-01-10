@@ -1,6 +1,4 @@
-/* .main{
-    background-color: rgb(159, 153, 153);
-} */
+
 
 body{
     background-color: rgb(183, 184, 203);
@@ -16,21 +14,13 @@ body{
     border-radius: 20px;
 }
 
-/* .half-card{
-    background-color: darkblue;
-    height: 45vh;
-    padding: 5px;
-    margin-top: 0 auto;
-    border-radius: 20px;   
-} */
+
 
 .qr{
-    margin-top: 0;
     width: 270px;
     margin-top: 4px;
     border-radius: 15px;
     text-align: center;
-    /* padding: 15px; */
 }
 
 .second-word{
